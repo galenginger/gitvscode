@@ -2,8 +2,6 @@ Hejhej!
 
 Hej jag heter Tord-Ulla.
 
-Hej jag heter Lars-Sverker.
-
-Hej jag heter Urban.
+Hej jag heter Tord-Ulla.
 
 Lägger till saker via GitHub!
